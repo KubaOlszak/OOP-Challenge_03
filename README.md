@@ -1,1 +1,1 @@
-POO Challenge 03 - Diffrents kind of ways
+POO Challenge 03 - Different kinds of ways
